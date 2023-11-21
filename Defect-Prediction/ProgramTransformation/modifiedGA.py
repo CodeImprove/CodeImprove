@@ -81,8 +81,8 @@ MODEL_CLASSES = {
 
 #from model import Model
 cpu_cont = multiprocessing.cpu_count()
-path = os.path.abspath('/nas1-nfs1/home/rsr200002/CodeImprove/Defect-Prediction/RoBERTa/CLONEGEN/CodeTransformationTest')
-code_path = os.path.abspath('/nas1-nfs1/home/rsr200002/CodeImprove/Defect-Prediction/RoBERTa/ProgramTransformation')
+path = ('Path/to/CLONEGEN/CodeTransformationTest')
+code_path = os.path.abspath('Path/to/ProgramTransformation/directory')
 c_filename = 'motivation.c'
 mutatedfile = 'Mutated.c'
 program = os.path.join(path, c_filename)
