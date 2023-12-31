@@ -1,6 +1,6 @@
 # This is the main repository of CodeImprove
 
-<h1 style="color:#ff0000; font-family: 'Arial', sans-serif;">Statistics of Figure1 in the paper: F1 Score % with Different Thresholds.</h1>
+<h3 style="color:#ff0000; font-family: 'Arial', sans-serif;">Statistics of Figure1 in the paper: F1 Score % with Different Thresholds.</h3>
 
 ![Descrition](https://github.com/CodeImprove/CodeImprove/blob/main/Images/VulCB.jpg)*CodeBert with Vulnerability Detection*
 
