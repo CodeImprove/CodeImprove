@@ -17,7 +17,7 @@
 
 <h4 style="color:#ff0000; font-family: 'Arial', sans-serif;">We have provided the experimental process for Defect-Prediction and Vulnerability-Detection in each folders..</h4>
  
-<p style="color:#ff0000; font-family: 'Arial', sans-serif;">First, set up thr CLONEGEN environment by visiting the CLONEGEN page. \b Then, select the task you need to evaluate (defect-prediction or vulnerability-detection). Follow the ReadMe.md files of each directory to produce the results.</p>
+<p style="color:#ff0000; font-family: 'Arial', sans-serif;">First, set up thr CLONEGEN environment by visiting the CLONEGEN page. <br> Then, select the task you need to evaluate (defect-prediction or vulnerability-detection). Follow the ReadMe.md files of each directory to produce the results.</p>
  
 
 <!--
