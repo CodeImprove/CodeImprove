@@ -2,7 +2,17 @@
 
 <h3 style="color:#ff0000; font-family: 'Arial', sans-serif;">Statistics of Figure1 in the paper: F1 Score % with Different Thresholds.</h3>
 
-![Descrition](https://github.com/CodeImprove/CodeImprove/blob/main/Images/VulCB.jpg)*CodeBert with Vulnerability Detection*
+![Descrition](https://github.com/CodeImprove/CodeImprove/blob/main/Images/VulCB.jpg)*CodeBERT with Vulnerability Detection*
+
+![Descrition](https://github.com/CodeImprove/CodeImprove/blob/main/Images/VulRB.jpg)*RoBERTa with Vulnerability Detection*
+
+![Descrition](https://github.com/CodeImprove/CodeImprove/blob/main/Images/VulGCB.jpg)*GraphCodeBERT with Vulnerability Detection*
+
+![Descrition](https://github.com/CodeImprove/CodeImprove/blob/main/Images/DefectCB.jpg)*CodeBERT with Defect Prediction*
+
+![Descrition](https://github.com/CodeImprove/CodeImprove/blob/main/Images/DefectRB.jpg)*RoBERTa with Defect Prediction*
+
+![Descrition](https://github.com/CodeImprove/CodeImprove/blob/main/Images/F1SCORE.jpg)*GraphCodeBERT with Defect Prediction*
 
 ## We have provided the experimental process for Defect-Prediction and Vulnerability-Detection in each folders. 
 
