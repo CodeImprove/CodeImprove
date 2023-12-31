@@ -1,6 +1,8 @@
 # This is the main repository of CodeImprove
 
-![Descrition](https://github.com/CodeImprove/CodeImprove/blob/main/Images/VulCB.jpg)*Description for Page 1: This is the first page of the PDF.*
+<h1 style="color:#ff0000; font-family: 'Arial', sans-serif;">Statistics of Figure1 in the paper: F1 Score % with Different Thresholds.</h1>
+
+![Descrition](https://github.com/CodeImprove/CodeImprove/blob/main/Images/VulCB.jpg)*CodeBert with Vulnerability Detection*
 
 ## We have provided the experimental process for Defect-Prediction and Vulnerability-Detection in each folders. 
 
