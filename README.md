@@ -1,6 +1,6 @@
 # This is the main repository of CodeImprove
 
-![text](https://github.com/CodeImprove/CodeImprove/blob/main/Images/VulCB.jpg)
+![Descrition](https://github.com/CodeImprove/CodeImprove/blob/main/Images/VulCB.jpg)
 
 ## We have provided the experimental process for Defect-Prediction and Vulnerability-Detection in each folders. 
 
